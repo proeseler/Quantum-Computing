@@ -1,2 +1,2 @@
 # Quantum-Computing
-This repository includes introductions to quantum computing.
+This repository will include introductions to quantum computing such as Bell State (WIP).
